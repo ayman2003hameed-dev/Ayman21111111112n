@@ -1,0 +1,6 @@
+{
+  "name": "الساعة",
+  "description": "تطبيق ساعة ذكي ومتكامل بتصميم عصري جذاب يضم ساعة تماثلية متحركة، وساعة إيقاف، ومؤقت تنازلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
